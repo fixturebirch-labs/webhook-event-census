@@ -1,0 +1,13 @@
+{
+  "events": [
+    {
+      "type": "created"
+    },
+    {
+      "type": "created"
+    },
+    {
+      "type": "deleted"
+    }
+  ]
+}
